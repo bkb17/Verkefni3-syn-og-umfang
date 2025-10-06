@@ -117,28 +117,11 @@ Ekki innifalið í fyrstu útgáfu:
 
 
 ## Breytingasaga
-<!--
-Í stað þess að halda utan um alla commit-sögu er aðeins skráð formleg útgáfa (milestones) með Git tags (merkjum).  
-Hver lína í töflunni samsvarar tag (merki) sem hefur verið sett í Git repositoryið.
-> 🔖 Revision History er viðhaldið með **Git tags**.  
-> Þegar ný útgáfa (t.d. drög eða baseline) er tilbúin, búið til tag í Git (`git tag -a vX.Y -m "message" && git push origin vX.Y`)  
-> sem bætir einni línu við í töfluna hér að neðan.
--->
-> 🔖 Taflan hér á eftir er búin til með því að keyra shell skrána `updatevisionhistory.sh` í bash terminal
-> 
->  `chmod +x updatevisionhistory.sh`
-> 
->  `./updatevisionhistory.sh`
-> 
->  Ef þú vilt skoða töfluna fyrst til að sjá hvernig hún kemur út geturðu gert eftirfarandi beint úr skelinni 
-> `git log -n 5 --pretty=format:"| %an | %ad | %s | %h |" --date=short -n 10 -- VISIONSCOPE.md`
 
+Eftirfarandi tafla sýnir breytingasögu þessa skjals, sjálfkrafa mynduð út frá `git log` skipuninni.
 
-<!-- GIT_HISTORY_START -->
 | Author | Date       | Message | Commit |
 |--------|------------|---------|--------|
-| Ebba Þóra Hvannberg | 2025-09-08 | fyrsta útgáfa og Revision history gert sjálfvirkt | 5b39409 |
-
-<!-- GIT_HISTORY_END -->
-
-> Skoða allt: `git log -- "VISIONSCOPE.md" `
+| Brynja | 2025-10-06 | Update VISIONSCOPE.md | 9bbf724 |
+| Brynja | 2025-10-06 | Update VISIONSCOPE.md | 2924985 |
+| Brynja | 2025-10-06 | Initial commit | f36c703 |
