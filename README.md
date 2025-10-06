@@ -1,13 +1,16 @@
-# Verkefni 3 – Sýn og umfang  
+# Verkefni 3 - Sýn og Umfang fyrir umönnunarkerfið Stoð
 
-Þetta repo er Template repo - Notaðu "Use this template" til að búa til þitt eigið repo
-fyrir verkefni 3. Uppfærðu þetta README skjal til að lýsa repo-inu þínu 
+## Höfundar og áfangi
 
-Þessi mappa inniheldur efnið sem beðið er um í verkefninu.
+* **Áfangi:** HBV301G Verkfræði kröfugreiningar
+* **Höfundar:** Brynja Kristín Bertelsdóttir og Óli Þorbjörn Guðbjartsson
 
--- **VISIONSCOPE.md 
+## Um verkefnið
 
--- **VERKASKIPTING-IGRUNDUN.md Í lokin lýsa nemendur verkaskiptingu og ígrunda verkefnið
+Þetta verkefni útfærir "Vision and Scope" skjal fyrir umönnunarkerfið **Stoð**, í samræmi við sniðmát og kröfur í Verkefni 3. Skjalið lýsir viðskiptamarkmiðum, framtíðarsýn, umfangi fyrstu útgáfu og prófíl forgangshagsmunaaðila.
 
--- **updatevisionhistory.sh - shell skripta til að búa til breytingasögu í VISIONSCOPE.md
+## Innihald geymslu (Repository)
 
+* **[VISIONSCOPE.md](VISIONSCOPE.md):** Meginafurð verkefnisins, inniheldur alla skilgreinda kafla.
+* **[VERKASKIPTING-IGRUNDUN.md](VERKASKIPTING-IGRUNDUN.md):** Umfjöllun um verkaskiptingu og ígrundun á hópavinnu.
+* **[updatevisionhistory.sh](updatevisionhistory.sh):** Skrifta til að uppfæra breytingasögu í `VISIONSCOPE.md` sjálfvirkt.
