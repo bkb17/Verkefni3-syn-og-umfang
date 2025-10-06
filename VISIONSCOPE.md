@@ -1,10 +1,10 @@
 # Sýn og Afmörkun 
 
 ## Númer teymis og höfundar
-[Setjið inn númer teymis og fullt nafn höfunda verkefnis]
+Teymi nr 2: Brynja Kristín Bertelsdóttir og Óli Þorbjörn Guðbjartsson
 
 ## Heiti kerfis
-[Setjið inn nafn kerfis]
+Stoð
 
 
 ## Efnisyfirlit 
