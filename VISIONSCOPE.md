@@ -1,10 +1,10 @@
 # Sýn og Afmörkun 
 
 ## Númer teymis og höfundar
-[Setjið inn númer teymis og fullt nafn höfunda verkefnis]
+Teymi nr 2: Brynja Kristín Bertelsdóttir og Óli Þorbjörn Guðbjartsson
 
 ## Heiti kerfis
-[Setjið inn nafn kerfis]
+Stoð
 
 
 ## Efnisyfirlit 
@@ -37,18 +37,32 @@
 
 
 ### 1.3 Viðskiptamarkmið
-*(Skrifaðu þennan kafla)*
+Markmið Stoð-kerfisins er að bæta alla ferla tengda daglegri umönnun fatlaðra einstaklinga með stafrænum lausnum sem styðja við bæði fagfólk og þjónustunotendur. Í núverandi umhverfi byggist mikilvæg þjónusta á handvirkum aðferðum og einstaklingsbundinni þekkingu starfsfólks, sem skapar hættu á mistökum, skorti á samræmi og vanmati á þörfum notenda. Stoð stefnir að því að bæta þessi atriði með skýrum verkferlum, aðgangi að lykilupplýsingum og innbyggðu gervigreindarviðmóti til stuðnings.
+Helstu viðskiptamarkmið eru:
+
+- Bæta skipulag og utanumhald í daglegri þjónustu: Með verkefnaskráningu, tímasetningum og tilkynningum er tryggt að mikilvægar athafnir eins og lyfjagjöf og einstaklingsmiðaðar aðgerðir séu framkvæmdar rétt og á réttum tíma.
+- Veita aðgengi að gagnreyndum upplýsingum og leiðbeiningum: Starfsfólk hefur aðgang að bjargráðum og viðbragðsferlum fyrir algengar aðstæður í umönnun, t.d. kvíðaköst, flog eða skyndilegar breytingar í hegðun.
+- Styðja sjálfstæði og andlega heilsu þjónustunotenda: Með notendaviðmóti og AI spjallmenni fá notendur sjálfir aðgang að stuðningi og upplýsingum, sem getur minnkað einmanaleika og eflt sjálfstæða ákvarðanatöku.
+- Draga úr villum og tryggja öryggi: Með því að skrásetja framkvæmd verkferla og veita áminningar er dregið úr líkum á að lyf gleymist eða framkvæmd breytist frá samþykktum aðferðum.
+- Styðja við gagnadrifna ákvarðanatöku: Með skráðum gögnum um framkvæmd, þátttöku og viðbrögð skapast tækifæri til að bæta þjónustu með raunverulegri greiningu.
+
+Í heild er markmiðið að auka gæði, draga úr kostnaði til lengri tíma, og styrkja þjónustu sem hefur djúpstæð áhrif á lífsgæði viðkvæmra einstaklinga.
 
 ### 1.4 Árangurs mælikvarðar
 
 
 ### 1.5 Framtíðarsýn
-*(Skrifaðu þennan kafla)*
+Í framtíðarsýn Stoð er hugbúnaðarkerfið orðið ómissandi hluti af daglegri umönnun fatlaðra einstaklinga, jafnt hjá opinberum sem einkareknum þjónustuaðilum. Kerfið þjónar sem tæknilegur og félagslegur bakhjarl sem bætir upplýsingaflæði, tryggir stöðugleika í þjónustu og styrkir þátttöku þjónustunotenda í eigin lífi. Þjónustan er einstaklingsmiðuð og sveigjanleg, byggð á rauntímagögnum og notendavænu viðmóti.
+Stoð býður upp á:
 
-[Write a concise vision statement that summarizes the purpose and intent of the new product and describes what the world will be like when it 
-includes the product. The vision statement should reflect a balanced view that will satisfy the needs of diverse customers as well as those of 
-the developing organization. It may be somewhat idealistic, but it should be grounded in the realities of existing or anticipated customer markets, 
-enterprise architectures, organizational strategic directions, and cost and resource limitations ]
+- Miðlægan og öruggan vettvang sem safnar, birtir og greinir upplýsingar um daglega þjónustu, s.s. lyfjagjafir, hegðun, og þörf fyrir stuðning.
+- Gervigreind sem virkur samstarfsaðili: AI spjallmenni sem getur veitt samkennd, hlustað, og vísað þjónustunotendum áfram eftir þörfum – hvort sem það er andlegur stuðningur eða einfaldar daglegar upplýsingar.
+- Sjálfstætt notendaviðmót fyrir þjónustunotendur þar sem þeir geta sjálfir fylgst með eigin stuðningi, átt samskipti og beðið um aðstoð – með aðgengisþörfum í huga (t.d. stórir takkar, talgervlar o.fl.).
+- Samþættingu við önnur kerfi, t.d. heilbrigðisupplýsingakerfi og dagatöl, sem gerir stofnunum kleift að nýta Stoð sem hluta af stærra vistkerfi þjónustu.
+- Greiningartól fyrir þjónustuaðila: Aðgang að sögulegum og rauntímagögnum sem gera þeim kleift að greina mynstur, sjá frávik og vinna að umbótum með gagnrýnum hætti.
+
+Framtíðarsýn Stoð snýst um að styrkja umhyggju, fagmennsku og sjálfræði með tækninni sem stuðningsverkfæri – ekki sem staðgengill mannlegra tengsla, heldur sem tæki sem dýpkar þau.
+
 ### 1.6 Viðskiptaáhætta
 
 
@@ -62,13 +76,20 @@ enterprise architectures, organizational strategic directions, and cost and reso
 
 
 ### 2.2 Umfang fyrstu útgáfu
-*(Skrifaðu þennan kafla )*
+Fyrsta útgáfa Stoð-kerfisins einblínir á grundvallaratriði í þjónustu við fatlaða einstaklinga. Markmiðið er að útgáfan skili áþreifanlegum ávinningi með lágmarksflækju og hámarks notagildi fyrir bæði þjónustunotendur og starfsfólk. Hún leggur áherslu á kjarnaaðgerðir sem styðja við skipulag, framkvæmd og upplýsingamiðlun í daglegri þjónustu.
+Helstu fídusar fyrstu útgáfu:
 
-[Describe the intended major features that will be included in the initial release of the product. 
-Consider the benefits the product is intended to bring to the various customer communities, and generally describe the 
-product features and quality characteristics that will enable it to provide those benefits. Avoid the temptation to 
-include every possible feature that any potential customer category might conceivably want some day.
-Focus on those features and product characteristics  that will provide the most value, at the most acceptable development cost, to the broadest community]
+- Notendaaðgangur og hlutverk: Aðgreind viðmót og aðgangsstýring fyrir starfsfólk, þjónustunotendur og umsjónaraðila. Sérsniðin upplifun eftir þörfum hvers hóps.
+- Verkefna- og þjónustudagatal: Skipulag og yfirsýn yfir dagleg verkefni (t.d. bað, mat, lyf) með áminningum, skráningu og staðfestingu framkvæmda.
+- Lyfjagjafarskráning: Gagnvirkt lyfjadagatal með skráningu, tímastýrðum áminningum og tilkynningum um vantalda framkvæmd.
+- Upplýsingabanki um aðstæður og bjargráð: Flýtiaðgangur að skjölum og aðgerðalýsingum fyrir starfsfólk í vakt – m.a. um hvernig bregðast skuli við algengum atvikum.
+- AI spjallmenni (beta): Einfaldur stuðningsaðili fyrir þjónustunotendur sem getur veitt hlustun, áminningar og grunnupplýsingar um þjónustu.
+- Tilkynningar og viðvaranir: Samræmd kerfistilkynning fyrir alla notendur, sem tryggir að mikilvægar upplýsingar berist tímanlega.
+
+Ekki innifalið í fyrstu útgáfu:
+- Flókin gagnagreining eða persónuleg skýrslugerð
+- Mælaborð fyrir stjórnendur eða ytri aðgangur fjölskyldumeðlima
+- Fyrsta útgáfan leggur áherslu á trausta grunnvirkni sem hægt er að byggja ofan á. Hún er prófanleg, prófanvæn og skilar verðmæti án of mikils þróunarkostnaðar. Útgáfan verður prófuð í litlu umhverfi með tilbúnu notendaprófíli áður en farið er í frekari þróun.
 
 ### 2.3 Takmarkanir og útilokanir
 
@@ -77,20 +98,16 @@ Focus on those features and product characteristics  that will provide the most 
 
 ## 3. Samhengi viðskipta
 ### 3.1 Prófílar forgangs hagsmunaaðila 
-*(Skrifaðu þennan kafla )*
+### 3.1 Prófílar forgangs hagsmunaaðila
 
-[ Stakeholders are individuals, groups, or organizations that are actively involved in a project, are affected by its outcome, or can influence its outcome. The stakeholder profiles identify the customers for this product and other stakeholders, and states their major interests in the product. Characterize business-level customers, target market segments, and different user classes, to reduce the likelihood of unexpected requirements surfacing later that cannot be accommodated because of schedule or scope constraints. For each stakeholder category, the profile includes the major value or benefits they will receive from the product, their likely attitudes toward the product, major features and characteristics of interest, and any known constraints that must be accommodated. Examples of stakeholder value include:
+| Hagsmunaaðili         | Hlutverk             | Markmið / Áhugi                                              | Líkleg afstaða            | Helstu þarfir                                       | Takmarkanir                            |
+|-----------------------|----------------------|---------------------------------------------------------------|----------------------------|----------------------------------------------------|----------------------------------------|
+| Starfsfólk í umönnun  | Notendur / þjónustuaðilar | Að hafa yfirsýn, fá aðgengi að leiðbeiningum, minnka villur  | Jákvæð ef það sparar tíma | Skipulag lyfjagjafar, verkefni, tilkynningar       | Lítill tími, þarf þjálfun              |
+| Þjónustunotendur      | Notendur             | Að fá sjálfstæði, stuðning og upplýsingar                    | Jákvæð ef einfalt          | AI spjallmenni, persónulegt viðmót, tilkynningar   | Skert tæknilæsi, þarf skjáaðgengi      |
+| Fjölskylda/forsjáraðilar | Óbeinir notendur   | Að hafa yfirsýn og traust á umönnun                          | Jákvæð                     | Skýrleiki, möguleg yfirsýn (í framtíð)             | Þarf að tryggja persónuvernd           |
+| Umsjónaraðilar þjónustu | Ákvarðanatakar     | Auka gæði og ábyrgð, lækka kostnað                           | Jákvæð ef gagnadrifið      | Gagnaskýrslugerð, samþætting við verkferla         | Takmarkað fjármagn og samþættingartími |
+| Þróunarteymi          | Framleiðendur        | Skila áreiðanlegri og stækkunarhæfri vöru                     | Hluthafandi                | Skýr krafa, samráð við notendur, skjölun           | Tíma- og tæknitakmarkanir              |
 
-- improved productivity
-- reduced rework 
-- cost savings	
-- streamlined business processes	
-- automation of previously manual tasks	
-- ability to perform entirely new tasks or functions	
-- conformance to current standards or regulations	
-- improved usability or reduced frustration level compared to current applications
-]
-Setjið gjarnan upp í töflu sbr námsefnið 
 
 
 ### 3.2 Forgangsröðun verkefnis 
